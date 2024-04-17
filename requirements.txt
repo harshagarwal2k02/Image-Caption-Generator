@@ -1,0 +1,10 @@
+nltk==3.8.1
+tqdm
+numpy
+pandas
+matplotlib
+scikit-learn
+scikit-image
+Pillow
+torch==2.1.0
+torchvision==0.16.0
