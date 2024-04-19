@@ -9,7 +9,7 @@ Team Members :
 
 # Project Overview
 
-In this project we made multiple models for Image Caption Generation. The models we made are in encoder-decoder architecture. The encoders used are pretrained VGG-19 Net and pretrained ResNet-152.The decoders used are LSTM, LSTM with slight modifications, LSTM with attention. Therefore, with 2 encoders and 3 decoders, we had made 6 models. For more information, please see the [report][https://github.com/harshagarwal2k02/Image-Caption-Generator/blob/main/report.pdf]
+In this project we made multiple models for Image Caption Generation. The models we made are in encoder-decoder architecture. The encoders used are pretrained VGG-19 Net and pretrained ResNet-152.The decoders used are LSTM, LSTM with slight modifications, LSTM with attention. Therefore, with 2 encoders and 3 decoders, we had made 6 models. For more information, please see the [report](https://github.com/harshagarwal2k02/Image-Caption-Generator/blob/main/report.pdf)
 
 # Steps to run the code
 
