@@ -10,7 +10,7 @@ Welcome to the Image Captioning Generator project repository for the EE769 cours
 ## Project Overview
 
 This project focuses on generating captions for images using various encoder-decoder architectures. We have implemented multiple models with pretrained VGG-19 and ResNet-152 as encoders and LSTM, modified LSTM, and LSTM with attention as decoders. With these combinations, we've developed a total of 6 models. For a detailed overview, please refer to our [report](https://github.com/harshagarwal2k02/Image-Caption-Generator/blob/main/report.pdf).
-
+Download the Report from here -[Report](https://drive.google.com/uc?export=download&id=14K5lsxW8CcMBUuEDl2fo1R0IyIFL6qYC)
 ## Getting Started
 
 To run the code, follow these steps:
