@@ -1,6 +1,6 @@
 # Image Captioning Generator
 
-Welcome to the Image Captioning Generator project repository for the EE769 course project.
+Welcome to the Image Captioning Generator project repository for the EE769 course project(2024-2).
 
 ## Team Members:
 - Harsh Agarwal <21B090007>
@@ -24,9 +24,9 @@ To run the code, follow these steps:
 
 ## Repository Structure
 
-- **models(https://github.com/harshagarwal2k02/Image-Caption-Generator/tree/6176af269ee14cceb71124613cff88338c796d68/models)**: Contains all the code files (.ipynb) for different models. Pre-presentation models are in the "pre_presentation" folder, while post-presentation models are in the main "models" folder.
-- **pics(https://github.com/harshagarwal2k02/Image-Caption-Generator/tree/6176af269ee14cceb71124613cff88338c796d68/pics)**: Holds all the images used in the project.
-- **test(https://github.com/harshagarwal2k02/Image-Caption-Generator/tree/6176af269ee14cceb71124613cff88338c796d68/test)**: Includes models that have been tested.
+- **[models](https://github.com/harshagarwal2k02/Image-Caption-Generator/tree/6176af269ee14cceb71124613cff88338c796d68/models)**: Contains all the code files (.ipynb) for different models. Pre-presentation models are in the "pre_presentation" folder, while post-presentation models are in the main "models" folder.
+- **[pics](https://github.com/harshagarwal2k02/Image-Caption-Generator/tree/6176af269ee14cceb71124613cff88338c796d68/pics)**: Holds all the images used in the project.
+- **[test](https://github.com/harshagarwal2k02/Image-Caption-Generator/tree/6176af269ee14cceb71124613cff88338c796d68/test)**: Includes models that have been tested.
 
 ## How to Interpret Outputs
 
