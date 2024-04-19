@@ -5,7 +5,7 @@ Welcome to the Image Captioning Generator project repository for the EE769 cours
 ## Team Members:
 - Harsh Agarwal <21B090007>
 - Prankul Yadav <21D070050>
-- Jayveer Singh Shikarwar <21D070033>
+- Jayveer Singh Sikarwar <21D070033>
 
 ## Project Overview
 
